@@ -6,7 +6,6 @@ Want to share data of a record from detail page quickly? Just hit share button a
 NOTE - 
 Limitations - 
 1. This plugin uses mailto: functionality to send email or call out the default app. Please check your default protocol settings or Handler settings under "chrome://settings/handlers" for proper opening of mail tab with details.
-
 2. mailto opens a new url on new tab and there is a limitation around number of characters in url, so right now plugin supports data till 2000 characters which is generally more than sufficient for most records.
 
 
